@@ -6,7 +6,7 @@ from secrets import spotify_id, spotify_token
 
 
 # must be provided with between 2-5 playlist links upon instantiation
-class Playlist:
+class Roulette:
     def __init__(self, plist_one, plist_two, plist_three=None, plist_four=None, plist_five=None):
         
         # EACH CLASS ATTRIBUTE == PLAYLIST LINK i.e "https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61?si=c6c62f9348044ab0
@@ -93,7 +93,7 @@ class Playlist:
                 }
         )
 
-        json_data = Playlist.jprint(response.json())
+        json_data = Roulette.jprint(response.json())
         
         # dumps prettified JSON data to data.json for later parsing
         with open('data.json', 'w') as f:
@@ -106,7 +106,7 @@ class Playlist:
 
 
 
-play_print = Playlist(*["https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61?si=c6c62f9348044ab0", 
+play_print = Roulette(*["https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61?si=c6c62f9348044ab0", 
                     "https://open.spotify.com/playlist/37i9dQZF1DWYmmr74INQlb?si=17c3bf40339e4a4a", 
                     "https://open.spotify.com/playlist/0L3CyZ90B6csQ50jb0idrL?si=43c1a6b3bc604182", 
                     "https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=7665e943ff994818", 
