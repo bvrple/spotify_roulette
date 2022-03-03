@@ -66,7 +66,7 @@ class Roulette:
     # uses playlist IDs to call Spotify Web API and save JSON response data
     def extract_playlist_json(pid1, pid2, pid3=None, pid4=None, pid5=None)
         
-        pid1, pid2, pid3, pid4, pid5 = Playlist.recieve_playlist_ids()
+        pid1, pid2, pid3, pid4, pid5 = Roulette.recieve_playlist_ids()
         
         p1 = f"https://api.spotify.com/v1/playlists/{pid1}/tracks" 
         p2 = f"https://api.spotify.com/v1/playlists/{pid2}/tracks"
