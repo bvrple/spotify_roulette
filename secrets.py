@@ -1,0 +1,2 @@
+spotify_id = "f55c2e712fa045e3a137ce8c8427d5b8"
+spotify_token = "BQDHEiN_vEYf9MIuxdwHuuqv71c0NNv8T0XtE8gQPsBErDRhPLHvuk41hzcbYPgMQN57_8PG6uhw7Qrf4wMU_Bsw4H7McgSmhxK-204PHKHaLOKzbdRid0W-BsT1hbdUWnrGrg-ylZCoO6CmgOwTmRB8_Q7G"

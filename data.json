@@ -1,0 +1,304 @@
+{
+    "items": [
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3wcZJ9ZPoJepzn8QXCAnYl",
+                "name": "Trust"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/62CCDdh0XegW511btyRSNP",
+                "name": "Choosey Lover"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/23uJbBKyqs1dibvfECdjSH",
+                "name": "Exhibit C"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/6x1h2IjySyKTC3JlMx73l4",
+                "name": "Life's a B*tch"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/4phgxncpmCJ7mgAQsCsD3X",
+                "name": "She Hates the Bass"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/32x1tZJNjnxlXuEDHarazK",
+                "name": "Hammers & Vogues"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3dkLUA4zs07CnhchRuRV6J",
+                "name": "Snakes"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/5wrM3MbU9xNuSZGbmRm9B7",
+                "name": "Hazeus View"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3nndHObJ5j5wpSKhTVODDG",
+                "name": "On & On (feat. Maverick Sabre & Dyemond Lewis)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/79eDnbSBUXoSaoRPqUhTur",
+                "name": "Piece of Mind"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/7GTQgSPs8BYbn3YbmS78N8",
+                "name": "95 Till Infinity"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/0F1DQ2uVP823zh96gm6AUI",
+                "name": "Sit n' Prey (feat. Dessy & T'nah Apex) (feat. Dessy & T'nah Apex)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/29gsi1zZrZxdStACmTQB0Z",
+                "name": "Studio"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/5W7xC99N2Zzfh69r7I7zWK",
+                "name": "Aston Martin Music"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/0H6fDB7YaMZe1rXCmATx9l",
+                "name": "Can't Be Friends"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/5rX60GiR64Epgri9Ubjzg9",
+                "name": "Love Faces"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/09mEdoA6zrmBPgTEN5qXmN",
+                "name": "Call Out My Name"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/16aNJYinJv9AAetWD5yJen",
+                "name": "FREAK IN YOU"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/76KisxMoH4cttuaGcT1kUA",
+                "name": "SLS"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/4IO4BwhnPKBEyyfz7FzSXG",
+                "name": "Bout It"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/4DmgUMnnCw27Tu5Jvqhm1n",
+                "name": "What Do You Mean?"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/37ZLnF6SYHTrWJbzvUlQJv",
+                "name": "One Night Only"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3C57ewlHARCVqeH3KiYkma",
+                "name": "Sober"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/1PVza5KmhSJhz12OewWciE",
+                "name": "Got Friends"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/4jwP0pxx7su04FYc6J12EQ",
+                "name": "I Wish I Missed My Ex"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/5deVg0xkVdJQZ8at6uuNwB",
+                "name": "Surprise Me"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/6d4E3KLrX4xiwx1DiIJefO",
+                "name": "Petty Lover"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/0yZSZr7iM5EhwSE6dsjljf",
+                "name": "Zer0"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/4k6hX9RKD096K1NCjjJZLc",
+                "name": "Footsteps (feat. Musiq Soulchild)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/47OqtEbWGkG6eDNGUNCYYB",
+                "name": "Hard Place"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/1DUSuNhF8P5vUGNPpQiZa5",
+                "name": "My Bad"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3PAptX72PPmjj1Igms0zjo",
+                "name": "Triggered (freestyle)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/6hR9oWhCZcH5Pgp8hwOjsT",
+                "name": "Jill (Sumn Real)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/1cPBPL1FlwRM7mYXixVmJB",
+                "name": "Thursday"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/152lZdxL1OR0ZMW6KquMif",
+                "name": "Location"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/76AbJUvQCeWa0zSo7PjsTb",
+                "name": "Pause"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/0Ib0OEKNLWAotTodHd8BfN",
+                "name": "Doobies"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/28S5O7SVnfgjdAIhvMERmU",
+                "name": "Ease"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3QNXJrOAjlN95CPmZvQ4x2",
+                "name": "Teardrops (feat. Mugun)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/4kIRyUnl8elQFStSL8866M",
+                "name": "Shade"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/33BtlwXUBRunGdnHAy9Qdi",
+                "name": "Don't Mean A Thing"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/33aMIf2dRy8Fs95Q3W8IAl",
+                "name": "Khlorine (feat. Smino)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/2Nh2cMryoXl7BrZoIeN2Pr",
+                "name": "Dapper (feat. Anderson .Paak)"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3aCTEIt6oIAeNU3cG2RTAG",
+                "name": "Fetti"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3HBZIY3FVzXu6YjhExNqWe",
+                "name": "Vixen"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3AM2ihc5RFzbC47eCpTg2I",
+                "name": "Waves"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/2j36iWSMTg412fdTQx4WdI",
+                "name": "The Essence"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/6gQ31HRUQX2XkwyTGk2QO0",
+                "name": "Free Nation Rebel Soldier 2"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/02n35GX2yoQaBKUVnCONKH",
+                "name": "514"
+            }
+        },
+        {
+            "track": {
+                "href": "https://api.spotify.com/v1/tracks/3GVkPk8mqxz0itaAriG1L7",
+                "name": "Everybody Dies In Their Nightmares"
+            }
+        }
+    ]
+}
